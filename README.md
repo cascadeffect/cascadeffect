@@ -1,4 +1,4 @@
-## 😎 Hi, I'm Cade.
+# 😎 Hi, I'm Cade.
 
 ### About Me
 
